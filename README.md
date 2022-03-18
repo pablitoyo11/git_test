@@ -1,1 +1,3 @@
-This is pablitoyo11's first git project!
+# git_test
+My first GitHub repo!
+Hello Odin!
